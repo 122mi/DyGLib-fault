@@ -1,0 +1,1 @@
+run,validate loss,validate average_precision,validate roc_auc,new node validate loss,new node average_precision,new node roc_auc,test loss,node average_precision,test average_precision,node roc_auc,test roc_auc,new node test loss,new node test average_precision,new node test roc_auc

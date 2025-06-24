@@ -1,0 +1,4 @@
+run,validate loss,validate average_precision,validate roc_auc,new node validate loss,new node average_precision,new node roc_auc,test loss,node average_precision,test average_precision,node roc_auc,test roc_auc,new node test loss,new node test average_precision,new node test roc_auc
+0,0.6154,0.7585,0.7311,0.7617,0.57,0.5475,0.3571,[0.9764506648336204],0.9765,[0.9740101797216342],0.974,0.7752,1,1
+1,0.5887,0.7713,0.7619,0.6922,0.6391,0.6038,0.4967,[0.8957296812159445],0.8957,[0.8719877482996261],0.872,0.6913,1,1
+2,0.6886,0.7378,0.7353,0.824,0.5756,0.5576,0.6065,[0.8495108899950481],0.8495,[0.8650511238232513],0.8651,0.8333,1,1
